@@ -27,7 +27,7 @@ body{
   border-radius: 5px;
 }
 .wrapper:hover{
-  box-shadow: rgb(245, 131, 211) 0px 28px 55px, rgb(245, 122, 208) 0px -12px 126px, rgb(241, 175, 221) 0px 4px 6px, rgb(236, 148, 214) 0px 12px 13px, rgb(236, 153, 216) 0px -3px 5px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .wrapper header{
   font-size: 30px;
